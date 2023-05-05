@@ -87,7 +87,6 @@ DATABASES = {
         'PASSWORD': os.getenv("PASSWORD"),
         'HOST': 'localhost',
         'PORT': '5432',
-
     }
 }
 
